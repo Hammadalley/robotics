@@ -1,0 +1,16 @@
+# Next.js + Tailwind CSS + Radix UI
+
+The robotics assessment web application using **Next.js**, **Tailwind CSS**, and **Radix UI**.
+
+ Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Hammadalley/robotics.git
+cd robotics
+
+npm install
+
+npm run dev
+
